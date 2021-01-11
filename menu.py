@@ -13,7 +13,7 @@ def draw_for_text(text, font, color, surface, x, y):
     textrect = textobj.get_rect()
     textrect.topleft = (x, y)
     surface.blit(textobj, textrect)
- 
+ sldbhvlzvzfbvlhzb
 click = False
  
 def menu():
